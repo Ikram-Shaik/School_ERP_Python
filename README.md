@@ -40,7 +40,7 @@ pip install pymysql
 
 ### 5. Run the Application
 ```bash
-python ERP.py
+python ERP Project.py
 ```
 
 ## 🚀 Features
